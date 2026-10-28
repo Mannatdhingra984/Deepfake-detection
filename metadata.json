@@ -1,0 +1,6 @@
+{
+  "name": "DeepTruth - AI Deepfake Detector",
+  "description": "A 12th grade level AI forensic image analysis lab to detect AI generated, altered, and real photos with segment analysis, offline mode, and data export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
